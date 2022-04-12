@@ -3,7 +3,8 @@
 2.npm install firebase
 3.initialize app and export getAuth
 4.enable authentication method
-5.
+5.create login,sign up component and set up route
+6.form handler set up
 
 
 
