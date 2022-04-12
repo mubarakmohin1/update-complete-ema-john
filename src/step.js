@@ -5,6 +5,9 @@
 4.enable authentication method
 5.create login,sign up component and set up route
 6.form handler set up
+7.npm install --save react-firebase-hooks
+8.useCreateUserWithEmailAndPassword from react firebase hook
+9.useSignInWithEmailAndPassword from react firebase hook
 
 
 
